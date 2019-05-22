@@ -1,0 +1,64 @@
+llvmDNA: gAeDkeHkfkeHIskskefkeHkfkeHIskskefkeHIsksfkeHIsksekfkeHIskskefkewAAAfAkeHIsksekfkeHkfkeHIsksekfkeHkfkeDfAfA
+oiDNA: emafaaafafemafaoakakemaaememae
+BESTs:            
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 92, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8195268
+    ExecutionTime:   322
+    Fitness:         819816
+  - TAs:             [ 7, 73, 91, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 92, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8249911
+    ExecutionTime:   248
+    Fitness:         825214
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 14, 0, 0, 60, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8331869
+    ExecutionTime:   253
+    Fitness:         833414
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8338178
+    ExecutionTime:   338
+    Fitness:         834122
+  - TAs:             [ 7, 73, 12, 1, 102, 11, 4, 11, 81, 9, 97, 0, 0, 0, 0, 
+                     0, 14, 0, 0, 60, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8352939
+    ExecutionTime:   252
+    Fitness:         835520
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8373811
+    ExecutionTime:   432
+    Fitness:         837769
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 0, 92, 37, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8399948
+    ExecutionTime:   326
+    Fitness:         840288
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 49, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 14, 0, 0, 60, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8412347
+    ExecutionTime:   415
+    Fitness:         841608
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 81, 9, 97, 0, 0, 103, 0, 
+                     0, 92, 0, 0, 0, 0, 0, 61, 0, 0 ]
+    CompilationTime: 8416454
+    ExecutionTime:   340
+    Fitness:         841951
+  - TAs:             [ 7, 73, 12, 1, 102, 71, 4, 11, 8, 9, 97, 0, 0, 0, 0, 
+                     0, 0, 92, 0, 105, 0, 0, 0, 0, 0 ]
+    CompilationTime: 8422504
+    ExecutionTime:   381
+    Fitness:         842593
+
+
+
+
+
+
+
+
+
+
+
