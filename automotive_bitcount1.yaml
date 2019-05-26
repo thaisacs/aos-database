@@ -51,8 +51,3 @@ BESTs:
     CompilationTime: 8508357
     ExecutionTime:   98
     Fitness:         850923
-  - TAs:             [ 10, 96, 61, 18, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
-                     97, 0, 0, 0, 0, 0, 0, 0, 0 ]
-    CompilationTime: 8526375
-    ExecutionTime:   101
-    Fitness:         852728
