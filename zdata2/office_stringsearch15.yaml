@@ -1,0 +1,53 @@
+llvmDNA:         gAeDkeHIskemkfkeHkeXlIskfkeHkfkeHkfkeHkfkewAkeHkfkeDfAkfkeXWkfkeXWkfkekeHkfkeHIsksekfkfkfkeXWkfkeXWkfkf4wAfAfAkfkeHIskskefkewAAkfkeXWkfkeXWkfkekeHkfkeHIsksekfkeHIsksemkfkeXkfkewmkfkeHIskskefAkeHIsksekfkewAAkeHIsksekfkeHkfkeHIskskefkfkeXWkfkeXWkfkf4wAfAfAkfkeXWkfkeXWkfkekeHkfkeHIsksekfkekeHkfkeHkfkfkeXWkfkeXWkfkekeHkfkeHIskskefAfAkfkeXWkfkeXWkfkekeHkfkeHIsksekfkf4wAfAfAkfkeXWkfkeXWkfkekeHkfkeHIsksekfkeHIskskefkf4wAfAfAkfkeXWkfkeXWkfkfkeXWkfkeXWkfkekeHkfkeHIsksekfkfkeXWkfkeXWkfkekeHkfkeHIsksekfkeHIskskefkf4wAfAfAgAeDkeHkfkeHIskskefkeHkfkeHIskskefkeHIskskefkeHIskskefkfkeXWkfkeXWkfkeHIsksekfkeHkfkeHIskskefkeHIsksekfkeHkfkf4wAfAfAgAeDkeHkffAgAeDkeHkfkeHskeIsksfkeHskeIsksfkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHkfkeHkfkeHkfkeHkfkf4wAfAfAgAeDkfkeXWkfkeXWkfkeDfAgAeDkeHkfkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHkfkeHkfkfkewAkewAkeHIsksekfkewAkeHkfkf4wAfAfAkeHIsksemkfkewAkeHkfkeHkfkf4wAfAfAkeHkfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHkfkeDfAgAeDkeHkfkeHIskskefkeHkfkfkeXWkfkeXWkfkeHIsksekfkeHkfkf4wAfAfAgAeDkeHkfkeHIskskefkeHIskskefkeHIskskefkeHkfkeHkfkewAkeHIsksemkfkfkewAkeHIsksekfkeHIsksekfkeHIsksekfkeHkfkeDfAfAfAgAeDkeHkfkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHkfkeHkfkeHkfkeHkfkewmkfkfkewAkewAkeHkfkeHkfkeHkfkeHIsksekfkewAkekewmkfkewAkekfAkeHIsksekfkeHkfkfkeHkfkf4wAfAfAkekeHkfkeHIskfkeHkfAkeHkfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHkfkeDfAfAfAgAeDkeHkfkeHIskskefkeHkfkeHkfkeHkfkfkeXWkfkeXWkfkeHIsksekfkeHkfkeHkfkeHkfkf4wAfAfAkeHIsksekfkeHkfkeDfAgAeDkeHkfkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHIskskefkeHkfkeHIsksekfkewAkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHIsksekfkeHkfkeDfAfAgAeDkeXkfkewAkeXkfkfkewAkeDfAfAfA
+oiDNA:           axayemememawaaaeememaaememememademafaoakememaaembhacagafakemaoakememafememadememaaemaaemememaaafakememaaemadememaaemafadememememaaemememaaemafad
+BESTs:            
+  - TAs:             [ 36, 91, 94, 91, 96, 54, 6, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71544395
+    ExecutionTime:   0
+    Fitness:         7154439
+  - TAs:             [ 36, 91, 94, 91, 96, 54, 6, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 0, 90, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71629766
+    ExecutionTime:   0
+    Fitness:         7162976
+  - TAs:             [ 36, 91, 94, 12, 96, 54, 109, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71717466
+    ExecutionTime:   0
+    Fitness:         7171746
+  - TAs:             [ 36, 91, 94, 91, 96, 54, 6, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 57, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71733982
+    ExecutionTime:   0
+    Fitness:         7173398
+  - TAs:             [ 36, 91, 94, 91, 96, 7, 6, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71762059
+    ExecutionTime:   0
+    Fitness:         7176205
+  - TAs:             [ 36, 91, 94, 91, 96, 54, 109, 106, 4, 41, 0, 0, 0, 0, 
+                       0, 0, 0, 90, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 71980909
+    ExecutionTime:   0
+    Fitness:         7198090
+  - TAs:             [ 36, 91, 94, 12, 96, 54, 109, 81, 4, 77, 0, 0, 0, 0, 
+                       0, 0, 0, 90, 10, 0, 0, 0, 0, 0, 94 ]
+    CompilationTime: 72281002
+    ExecutionTime:   0
+    Fitness:         7228100
+  - TAs:             [ 36, 91, 94, 12, 96, 54, 109, 81, 4, 77, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 72289187
+    ExecutionTime:   0
+    Fitness:         7228918
+  - TAs:             [ 36, 91, 94, 12, 96, 54, 109, 81, 20, 34, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 72293005
+    ExecutionTime:   0
+    Fitness:         7229300
+  - TAs:             [ 36, 91, 94, 12, 96, 54, 109, 81, 4, 41, 0, 79, 0, 0, 
+                       0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 72294806
+    ExecutionTime:   0
+    Fitness:         7229480

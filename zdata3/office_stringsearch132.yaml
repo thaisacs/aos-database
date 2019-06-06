@@ -1,0 +1,53 @@
+llvmDNA:         gAeDkfkeHIskskefkfkfAfAfA
+oiDNA:           emafememak
+BESTs:           
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       0, 54, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6536928
+    ExecutionTime:   0
+    Fitness:         653692
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 44, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6605151
+    ExecutionTime:   0
+    Fitness:         660515
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 9, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6607200
+    ExecutionTime:   0
+    Fitness:         660720
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 74, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6621003
+    ExecutionTime:   0
+    Fitness:         662100
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 66, 0, 0, 
+                       0, 0, 0, 42, 0, 0, 0, 0, 0, 54 ]
+    CompilationTime: 6623708
+    ExecutionTime:   0
+    Fitness:         662370
+  - TAs:             [ 10, 64, 27, 2, 51, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 54, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6628963
+    ExecutionTime:   0
+    Fitness:         662896
+  - TAs:             [ 10, 64, 27, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6631131
+    ExecutionTime:   0
+    Fitness:         663113
+  - TAs:             [ 10, 106, 23, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6633215
+    ExecutionTime:   0
+    Fitness:         663321
+  - TAs:             [ 10, 64, 39, 2, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 94, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6635987
+    ExecutionTime:   0
+    Fitness:         663598
+  - TAs:             [ 10, 64, 39, 2, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 44, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 6642796
+    ExecutionTime:   0
+    Fitness:         664279

@@ -1,0 +1,53 @@
+llvmDNA:         gAeDkeHIsksekfkewmkfkewAAkeHIsksekfkeTkfkfkeXWkfkeXWkfkekeHkfkfkeXWkfkeXWkfkeHIsksekfkeHIskskefAkeHIsksekfkeHkfkeHIskskefAfAkeHIsksfAkfkeXWkfkeXWkfkeHIsksekfkeHIsksekfkekewmkfkewAAkeHIsksekfkeHIsksekfkekeHkfkeHIskemkfkfkeXWkfkeXWkfkeHIsksekfkfkeXWkfkeXWkfkeTkfkekeHkfkekeIkfkeHkfkeHIskskefAkeHIsksekfkeHkfkeHIskskefAfAkeHIsksekfkfkeXWkfkeXWkfkeHIskskefkeHkfkeHIsksekfkeHIsksekfkeHkfkeDfA
+oiDNA:           emagaoakemanememaaemememafakememafakafakememememazaoakememaaaxemememememanaaapemafakememafakemememafaaemememae
+BESTs:            
+  - TAs:             [ 2, 10, 97, 44, 99, 102, 19, 91, 9, 65, 0, 0, 0, 0, 
+                       0, 20, 0, 0, 0, 0, 0, 0, 14, 0, 0 ]
+    CompilationTime: 15955430
+    ExecutionTime:   1815
+    Fitness:         1597176
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 9, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 16330814
+    ExecutionTime:   1891
+    Fitness:         1634783
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 9, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0 ]
+    CompilationTime: 16358922
+    ExecutionTime:   1859
+    Fitness:         1637565
+  - TAs:             [ 2, 10, 97, 12, 99, 102, 80, 91, 9, 24, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0 ]
+    CompilationTime: 16366989
+    ExecutionTime:   1888
+    Fitness:         1638398
+  - TAs:             [ 2, 10, 97, 12, 99, 102, 80, 91, 9, 24, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 45, 14, 0, 0 ]
+    CompilationTime: 16648095
+    ExecutionTime:   1846
+    Fitness:         1666470
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 9, 0, 60, 0, 0, 0, 
+                       0, 0, 64, 0, 0, 0, 0, 0, 14, 0, 0 ]
+    CompilationTime: 16855012
+    ExecutionTime:   1878
+    Fitness:         1687191
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 9, 0, 0, 0, 0, 0, 
+                       71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 16862649
+    ExecutionTime:   1884
+    Fitness:         1687960
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 0, 0, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0 ]
+    CompilationTime: 16863982
+    ExecutionTime:   1901
+    Fitness:         1688109
+  - TAs:             [ 2, 10, 97, 44, 99, 102, 80, 91, 9, 65, 0, 0, 0, 0, 
+                       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 16870851
+    ExecutionTime:   1892
+    Fitness:         1688787
+  - TAs:             [ 2, 10, 97, 73, 99, 102, 80, 91, 9, 0, 0, 0, 0, 0, 
+                       42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+    CompilationTime: 16872949
+    ExecutionTime:   1870
+    Fitness:         1688977
